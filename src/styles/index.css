@@ -1,3 +1,56 @@
-/* 
-    General Styles
-*/
+body {
+    background: rgba(255, 245, 238, 0.549);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    background: rgb(255, 184, 134);
+
+}
+
+.btn-success {
+    margin-left: 90rem;
+    padding: 0.5rem;
+}
+
+.container-fluid {
+    margin-top: 5rem;
+    width: 40rem;
+    background: rgb(255, 184, 134);
+    ;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+.icon {
+    margin-left: 18rem;
+}
+
+.card {
+    width: 35rem;
+    margin: auto;
+    padding: 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+p {
+    color: gray;
+    font-size: large;
+}
+
+.img-fluid {
+    -webkit-clip-path: circle(70% at 70% 70%);
+    clip-path: circle(30% at 50% 50%);
+}
+
+.container-fluid {
+    background: rgba(255, 245, 238, 0.549);
+}
+
+modal-content {
+    background-color: #fff;
+}
